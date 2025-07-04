@@ -2,19 +2,19 @@
 
 <a id="readme-top"></a>
 <div align="center">
-  <h3 align="center">HASAN "RAKSODNUS" KESKIN</h3>
+  <h3 align="center">YASİR "YT-Vettel" TAPAR</h3>
 
   <p align="center">
-    Quality Makes the Difference
+  🔴🐂🏎️7️⃣
     <br />
-    <a href="https://github.com/hk-raksodnus"><strong>Explore my projects »</strong></a>
+    <a href="https://github.com/YT-Vettel?tab=repositories"><strong> My Projects »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/hk-raksodnus">View Demo</a>
+    <a href="https://www.linkedin.com/in/yasir-tapar/">Linkedin Profile</a>
     &middot;
-    <a href="https://github.com/hk-raksodnus">Report Bug</a>
+    <a href="https://github.com/YT-Vettel">Refresh the Page</a>
     &middot;
-    <a href="https://github.com/hk-raksodnus">Request Feature</a>
+    <a href="https://github.com/hk-raksodnus">My best friend's profile</a>
   </p>
 </div>
 
@@ -53,53 +53,38 @@
 
 <hr> <!--[![Product Name Screen Shot][product-screenshot]](https://example.com)-->
 
-Hi my name is  `Hasan "raksodnus" KESKİN`  . I'm a developer with a strong interest in game development, server-side systems, and community management. I enjoy building things from scratch, solving problems, and working with passionate people. I'm constantly exploring new tools, languages, and ideas. Whether it's contributing to open-source projects or experimenting on my own, I'm always looking for ways to improve and grow as a developer.Feel free to reach out or explore my projects below.
-<br>
-<br>
-Here's why:
-<br>* Develop games and related systems, both client and server-side
-<br>* Build and manage custom server infrastructures
-<br>* Actively manage and grow online communities (especially on platforms like Discord)
-<br>* Work with technologies such as JAVA, JavaScript, and C#
+Hi, I’m Yasir.
+I’m a Computer Programming student focusing on software development, SQL, and database management.
+I enjoy learning new technologies, building projects, and improving my skills in database handling.
+I’m open to experimenting with different languages and approaches.
+
+What I do:
+Develop database and SQL projects
+Work on reporting and data management
+Currently a volunteer part-time software intern receiving training
+Work with SQL and Database Systems
+Feel free to check out my projects or get in touch.
+
 <div align="center">
 <p><h2>Languages ​​I know/learning</h2></p>
 <a href="https://www.w3.org/html/">
 <img src="https://cdn-icons-png.flaticon.com/128/1891/1891365.png" width="64" height="64"></a>
 
-<a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/">
-<img src="https://cdn-icons-png.flaticon.com/128/1073/1073463.png" width="64" height="64"></a>
-
-<a href="https://www.php.net">
-<img src="https://cdn-icons-png.flaticon.com/128/15773/15773201.png" width="64" height="64"></a>
-
-<a href="https://www.java.com/tr/">
-<img src="https://cdn-icons-png.flaticon.com/128/644/644609.png" width="64" height="64"></a>
-
-<a href="https://www.python.org">
-<img src="https://media.discordapp.net/attachments/1105508287383879731/1381638026991763586/pythonn.png?ex=68483e2f&is=6846ecaf&hm=650c07b225b2527a142c9785371f699185c2f93f2aadcae4ed84c21150734731&=&format=webp&quality=lossless" width="64" height="64"></a>
-<p> </p>
-
 <a href="https://www.w3schools.com/css/">
 <img src="https://cdn-icons-png.flaticon.com/128/1045/1045906.png" width="64" height="64"></a>
-
-<a href=" ">
-<img src="https://cdn.discordapp.com/attachments/1105508287383879731/1381642292980613141/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f31313232392f31313232393430322e706e67.png?ex=68484228&is=6846f0a8&hm=ca08d748a8cc1a2d910598de83b4bd60c82742826584e1b0a7f15ddfa7322034" width="64" height="64"></a>
-
-<a href="https://isocpp.org">
-<img src="https://cdn-icons-png.flaticon.com/128/11068/11068860.png" width="64" height="64"></a>
+  
+<a href="https://www.python.org">
+<img src="https://icons8.com/icon/13441/python" width="64" height="64"></a>
 
 </div>
 
 <div align="center">
 <p><h2>My Socials</h2></p>
-<a href="https://www.linkedin.com/in/raksodnus/">
+<a href="https://www.linkedin.com/in/yasir-tapar/">
 <img src="https://cdn-icons-png.flaticon.com/512/4096/4096186.png" width="48" height="48"></a>
 
-<a href="https://www.instagram.com/_.raksodnus/">
+<a href="https://www.instagram.com/yasir_t1/">
 <img src="https://cdn-icons-png.flaticon.com/128/4096/4096260.png" width="48" height="48"></a>
-
-<a href="https://discord.com/users/551072969728851988">
-<img src="https://cdn-icons-png.flaticon.com/128/2504/2504896.png" width="48" height="48"></a>
 </div>
 
 
