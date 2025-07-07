@@ -5,7 +5,7 @@
   <h3 align="center">YASİR "YT-Vettel" TAPAR</h3>
 
   <p align="center">
-  🔴🐂🏎️7️⃣
+  🇹🇷  - 🧡💙💛 - 🏁 - 🎧
     <br />
     <a href="https://github.com/YT-Vettel?tab=repositories"><strong> My Projects »</strong></a>
     <br />
@@ -52,19 +52,37 @@
 <!-- ## About The Project -->
 
 <hr> <!--[![Product Name Screen Shot][product-screenshot]](https://example.com)-->
+👋 Hi, I’m Yasir
 
-Hi, I’m Yasir.
-I’m a Computer Programming student focusing on software development, SQL, and database management.
-I enjoy learning new technologies, building projects, and improving my skills in database handling.
-I’m open to experimenting with different languages and approaches.
+🎓 I'm a Computer Programming student with a strong interest in **software development**, **SQL**, and **database management**.  
+🚀 I love learning new technologies, building small to mid-scale projects, and constantly improving my skills in **data handling**.
 
-What I do:
-Develop database and SQL projects,
-Work on reporting and data management,
-Currently a volunteer part-time software intern receiving training,
-Work with SQL and Database Systems,
+---
 
-Feel free to check out my projects or get in touch.
+## 💼 What I Do
+- 🔧 Develop database and SQL-based projects  
+- 📊 Work on reporting and data visualization  
+- 💻 Part-time **volunteer software intern**, currently receiving practical training  
+- 🗃️ Actively using **SQL** and **relational database systems**
+
+---
+
+## 📂 Check Out My Work
+Feel free to explore my projects here on GitHub. Feedback and collaboration ideas are always welcome!
+
+---
+
+## 📫 Get in Touch
+- ✉️ Mail: yasirtapar1@gmail.com  
+- 💬 Discord: YTS_Vettel
+- 🌐 LinkedIn: [linkedin.com/in/yasirtapar](https://www.linkedin.com/in/yasir-tapar/)
+
+---
+
+> 🗒️ “Every race is different; you have to keep improving.”
+— Sebastian Vettel
+
+
 
 <div align="center">
 <p><h2>Languages ​​I know/learning</h2></p>
