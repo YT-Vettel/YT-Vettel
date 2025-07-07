@@ -59,22 +59,20 @@ I enjoy learning new technologies, building projects, and improving my skills in
 I’m open to experimenting with different languages and approaches.
 
 What I do:
-Develop database and SQL projects
-Work on reporting and data management
-Currently a volunteer part-time software intern receiving training
-Work with SQL and Database Systems
+Develop database and SQL projects,
+Work on reporting and data management,
+Currently a volunteer part-time software intern receiving training,
+Work with SQL and Database Systems,
+
 Feel free to check out my projects or get in touch.
 
 <div align="center">
 <p><h2>Languages ​​I know/learning</h2></p>
-<a href="https://www.w3.org/html/">
-<img src="https://cdn-icons-png.flaticon.com/128/1891/1891365.png" width="64" height="64"></a>
-
-<a href="https://www.w3schools.com/css/">
-<img src="https://cdn-icons-png.flaticon.com/128/1045/1045906.png" width="64" height="64"></a>
+<a href="https://www.microsoft.com/tr-tr/sql-server">
+<img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" width="64" height="64"></a>
   
 <a href="https://www.python.org">
-<img src="https://icons8.com/icon/13441/python" width="64" height="64"></a>
+<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="64" height="64"></a>
 
 </div>
 
