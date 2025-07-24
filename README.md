@@ -7,9 +7,7 @@
   <p align="center">
   🇹🇷  - 🧡💙💛 - 🏁 - 🎧
     <br/>
-    <a href="https://github.com/YT-Vettel?tab=repositories"><strong> My Projects »</strong></a>
-    <br />
-&middot;
+    <a href="https://github.com/YT-Vettel?tab=repositories"><strong> My Projects »</strong></a><br />&middot;
     <br />
     <a href="https://github.com/YT-Vettel">Refresh the Page</a>
 &middot;
