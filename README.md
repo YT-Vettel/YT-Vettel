@@ -10,8 +10,6 @@
     <a href="https://github.com/YT-Vettel?tab=repositories"><strong> My Projects »</strong></a>
 <br /> <br />
 <a href="https://github.com/YT-Vettel">Refresh the Page</a>
-&middot;
-<a href="https://github.com/hk-raksodnus">My best friend's profile</a>
 </p>
 </div>
 
