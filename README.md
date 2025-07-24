@@ -9,10 +9,11 @@
     <br/>
     <a href="https://github.com/YT-Vettel?tab=repositories"><strong> My Projects »</strong></a>
     <br />
+&middot;
     <br />
     <a href="https://github.com/YT-Vettel">Refresh the Page</a>
-<a href="https://github.com/hk-raksodnus">My best friend's profile</a>
 &middot;
+<a href="https://github.com/hk-raksodnus">My best friend's profile</a>
 </p>
 </div>
 
