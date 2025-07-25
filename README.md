@@ -47,17 +47,18 @@
 <!-- ## About The Project -->
 
 <hr> <!--[![Product Name Screen Shot][product-screenshot]](https://example.com)-->
-👋 Hi, I’m Yasir
+👋 Hi, I’m Yasir,
 
-🎓 I'm a Computer Programming student with a strong interest in **software development**, **SQL**, and **database management**.  
+🎓 I'm a Junior Database Specialist & Computer Programming student with a strong passion for SQL, **database management**, and **software development**. 
+
 🚀 I love learning new technologies, building small to mid-scale projects, and constantly improving my skills in **data handling**.
 
 ---
 
 ## 💼 What I Do
-- 🔧 Develop database and SQL-based projects  
-- 📊 Work on reporting and data visualization  
-- 💻 Part-time **volunteer software intern**, currently receiving practical training  
+- 🔧 Design, develop, and maintain SQL databases and related projects.
+- 📊 Create reports and visualizations to support data-driven decisions.  
+- 💻  Working full-time as a Junior Database Specialist, with practical experience in managing, optimizing, and maintaining database systems. 
 - 🗃️ Actively using **SQL** and **relational database systems**
 
 ---
